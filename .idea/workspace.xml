@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0702a3f-7059-4f9e-9a2d-9b9a2a5200fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaOOP/model/Print.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaOOP/model/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="a0702a3f-7059-4f9e-9a2d-9b9a2a5200fa" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +62,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -100,6 +96,32 @@
               <item name="JavaOOP" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaOOP" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaOOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOOP" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOOP" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOOP" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaOOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOOP" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaOOP" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -109,8 +131,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,6 +179,21 @@
       <option name="presentableId" value="Default" />
       <updated>1563192769440</updated>
     </task>
+    <task id="LOCAL-00001" summary="homework-8">
+      <created>1563243933307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563243933307</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homework-8">
+      <created>1563244143426</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563244143426</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
